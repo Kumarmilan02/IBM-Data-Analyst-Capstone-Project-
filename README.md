@@ -1,11 +1,5 @@
 # IBM Data Analyst Professional Certificate (Coursera)
 
-![GitHub Followers](https://img.shields.io/github/followers/bdfd?label=Follow%20Me&logo=github)
-![ViewCount](https://views.whatilearened.today/views/github/BDFD-LearningGround/IBM-Data-Analyst-Professional-Certificate_Coursera_.svg?cache=remove)
-![GitHub top language](https://img.shields.io/github/languages/top/BDFD-LearningGround/IBM-Data-Analyst-Professional-Certificate_Coursera_?style=flat)
-![GitHub language count](https://img.shields.io/github/languages/count/BDFD-LearningGround/IBM-Data-Analyst-Professional-Certificate_Coursera_?style=flat)
-![Project Status](https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Status/On_Progress.svg)
-
 ## About This Course/Certificate
 
 This repository contains the materials for the IBM Data Analyst Professional Certificate on Coursera. The courses cover data analytics, visualization, Python programming, databases, and more.
@@ -44,9 +38,6 @@ In this capstone project, we assume the role of a Data Analyst hired by a global
 - GitHub
 - Pandas, NumPy
 
-## Course Certificate
-
-Total Hours: ~132 Hrs
 
 ## Contributors
 
@@ -62,6 +53,6 @@ This project is licensed under the [MIT License](LICENSE).
 ### Feel Free To Fork And Report If You Find Any Issue :)
 
 ![Star Badge](https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99)
-[![View Repositories](https://img.shields.io/badge/View-My_Repositories-blue?logo=GitHub)](https://github.com/bdfd?tab=repositories)
-[![View My Profile](https://img.shields.io/badge/View-My_Profile-green?logo=GitHub)](https://github.com/bdfd)
+[![View Repositories](https://img.shields.io/badge/View-My_Repositories-blue?logo=GitHub)](https://github.com/Kumarmilan02?tab=repositories)
+[![View My Profile](https://img.shields.io/badge/View-My_Profile-green?logo=GitHub)](https://github.com/Kumarmilan02)
 </div>
